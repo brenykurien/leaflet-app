@@ -1,5 +1,6 @@
 # LeafletApp
 
+Leaflet App with state and district layers. State layer appears on map load. On clicking state it moves into district view. Zoom out to set back to state view.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7.
 
 ## Development server
